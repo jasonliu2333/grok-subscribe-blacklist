@@ -41,3 +41,6 @@ https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Config
 https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/configs/singbox_configs_all.json
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://v2raymianfei.github.io/uploads/2026/04/20260418.json
+https://www.xrayvip.com/free.txt
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
+https://www.xrayvip.com/free.yaml
