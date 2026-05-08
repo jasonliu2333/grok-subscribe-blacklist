@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-05-08T08:22:31.554Z",
+  "subscription_url_count": 46,
+  "node_count": 63638,
+  "error_count": 8,
+  "errors": [
+    {
+      "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
+      "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
+    },
+    {
+      "url": "https://openproxylist.com/v2ray/rawlist/subscribe",
+      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/rawlist/subscribe"
+    },
+    {
+      "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
+      "error": "Error: fetch failed 403 for https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/crashgfw/free-airport-nodes/main/sub.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crashgfw/free-airport-nodes/main/sub.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
+      "error": "YAMLException: missed comma between flow collection entries (189:19)\n\n 186 | - {name: 🇫🇷FR-109.61.110.241-184, server: 109.6 ...\n 187 | - {name: 🇸🇪SE-16.16.45.85-185, server: 16.16.45 ...\n 188 | - {name: 🇸🇪SE-45.153.187.209-186, server: 45.15 ...\n 189 | - {name: \"🇺🇸US-\"2a14:7584:d0a2::a\"-187\", server ...\n-------------------------^\n 190 | - {name: 🇹🇭TH-43.249.33.117-188, server: 43.249 ...\n 191 | - {name: 🇫🇷FR-45.84.88.232-189, server: 45.84.8 ..."
+    }
+  ]
+}
