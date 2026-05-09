@@ -1,20 +1,18 @@
 {
-  "generated_at": "2026-05-08T11:00:31.870Z",
-  "subscription_url_count": 46,
-  "node_count": 69606,
-  "error_count": 8,
+  "generated_at": "2026-05-09T03:56:32.488Z",
+  "subscription_url_count": 382,
+  "node_count": 455693,
+  "part_count": 2,
+  "artifact_mode": "split",
+  "error_count": 28,
   "errors": [
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
       "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
     },
     {
-      "url": "https://openproxylist.com/v2ray/rawlist/subscribe",
-      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/rawlist/subscribe"
-    },
-    {
       "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
-      "error": "TypeError: fetch failed"
+      "error": "Error: fetch failed 403 for https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153"
     },
     {
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64.txt",
@@ -33,8 +31,92 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
     },
     {
-      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (189:19)\n\n 186 | - {name: 🇫🇷FR-109.61.110.241-184, server: 109.6 ...\n 187 | - {name: 🇸🇪SE-16.16.45.85-185, server: 16.16.45 ...\n 188 | - {name: 🇸🇪SE-45.153.187.209-186, server: 45.15 ...\n 189 | - {name: \"🇺🇸US-\"2a14:7584:d0a2::a\"-187\", server ...\n-------------------------^\n 190 | - {name: 🇹🇭TH-43.249.33.117-188, server: 43.249 ...\n 191 | - {name: 🇫🇷FR-45.84.88.232-189, server: 45.84.8 ..."
+      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
+    },
+    {
+      "url": "https://a.nodeshare.xyz/uploads/2025/8/20250804.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://melomelo.xyz/V2rayapp/Mrvpn.php",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://oneclash.githubrowcontent.com/2025/08/20250804.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/arshiacomplus/eva-sub/refs/heads/main/configs.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/arshiacomplus/eva-sub/refs/heads/main/configs.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/darknessm427/V2ray-Sub-Collector/refs/heads/main/All_Darkness_Sub.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/darknessm427/V2ray-Sub-Collector/refs/heads/main/All_Darkness_Sub.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/iPsycho1/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/iPsycho1/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt"
+    },
+    {
+      "url": "https://v2rayshare.githubrowcontent.com/2025/08/20250804.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/hy2",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/hy2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/imalrzai/ExclaveVirtual/refs/heads/main/ExclaveVirtual",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/imalrzai/ExclaveVirtual/refs/heads/main/ExclaveVirtual"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hysteria",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hysteria"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hy2",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hy2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt"
     }
   ]
 }
