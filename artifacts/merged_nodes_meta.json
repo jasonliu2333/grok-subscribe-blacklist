@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T08:47:02.857Z",
+  "generated_at": "2026-05-08T11:00:31.870Z",
   "subscription_url_count": 46,
-  "node_count": 63457,
+  "node_count": 69606,
   "error_count": 8,
   "errors": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
-      "error": "Error: fetch failed 403 for https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153"
+      "error": "TypeError: fetch failed"
     },
     {
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64.txt",
