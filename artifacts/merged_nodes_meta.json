@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-05-09T03:56:32.488Z",
+  "generated_at": "2026-05-10T11:04:18.003Z",
   "subscription_url_count": 382,
-  "node_count": 455693,
+  "node_count": 459223,
   "part_count": 2,
   "artifact_mode": "split",
-  "error_count": 28,
+  "error_count": 34,
   "errors": [
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
       "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
+    },
+    {
+      "url": "https://openproxylist.com/v2ray/rawlist/subscribe",
+      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/rawlist/subscribe"
     },
     {
       "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
@@ -31,8 +35,16 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
     },
     {
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
+      "error": "YAMLException: missed comma between flow collection entries (171:19)\n\n 168 | - {name: 🇷🇺RU-95.213.226.60-166, server: 95.213 ...\n 169 | - {name: 🇸🇪SE-150.241.65.18-167, server: yespai ...\n 170 | - {name: 🇺🇸US-95.164.62.196-168, server: 95.164 ...\n 171 | - {name: \"🇺🇸US-\"2a14:7584:d0a2::a\"-169\", server ...\n-------------------------^\n 172 | - {name: 🇫🇷FR-138.124.81.204-170, server: 138.1 ...\n 173 | - {name: 🇳🇱NL-2.59.183.198-171, server: 2.59.18 ..."
+    },
+    {
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt",
+      "error": "Error: fetch failed 502 for https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt"
     },
     {
       "url": "https://a.nodeshare.xyz/uploads/2025/8/20250804.txt",
@@ -79,12 +91,24 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt"
     },
     {
+      "url": "https://shadowmere.xyz/api/b64sub/",
+      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub/"
+    },
+    {
       "url": "https://v2rayshare.githubrowcontent.com/2025/08/20250804.txt",
       "error": "TypeError: fetch failed"
     },
     {
       "url": "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS"
+    },
+    {
+      "url": "https://shadowmere.xyz/api/b64sub",
+      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub"
+    },
+    {
+      "url": "https://openproxylist.com/v2ray/",
+      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/"
     },
     {
       "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/hy2",
