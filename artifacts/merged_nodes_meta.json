@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-10T11:04:18.003Z",
+  "generated_at": "2026-05-11T11:05:16.806Z",
   "subscription_url_count": 382,
-  "node_count": 459223,
+  "node_count": 455232,
   "part_count": 2,
   "artifact_mode": "split",
-  "error_count": 34,
+  "error_count": 32,
   "errors": [
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
@@ -35,16 +35,8 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
     },
     {
-      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (171:19)\n\n 168 | - {name: 🇷🇺RU-95.213.226.60-166, server: 95.213 ...\n 169 | - {name: 🇸🇪SE-150.241.65.18-167, server: yespai ...\n 170 | - {name: 🇺🇸US-95.164.62.196-168, server: 95.164 ...\n 171 | - {name: \"🇺🇸US-\"2a14:7584:d0a2::a\"-169\", server ...\n-------------------------^\n 172 | - {name: 🇫🇷FR-138.124.81.204-170, server: 138.1 ...\n 173 | - {name: 🇳🇱NL-2.59.183.198-171, server: 2.59.18 ..."
-    },
-    {
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
-    },
-    {
-      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt",
-      "error": "Error: fetch failed 502 for https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/21.txt"
     },
     {
       "url": "https://a.nodeshare.xyz/uploads/2025/8/20250804.txt",
