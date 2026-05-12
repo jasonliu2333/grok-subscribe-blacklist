@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-11T11:05:16.806Z",
+  "generated_at": "2026-05-12T11:04:57.976Z",
   "subscription_url_count": 382,
-  "node_count": 455232,
+  "node_count": 448904,
   "part_count": 2,
   "artifact_mode": "split",
-  "error_count": 32,
+  "error_count": 33,
   "errors": [
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
@@ -33,6 +33,10 @@
     {
       "url": "https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
+      "error": "YAMLException: missed comma between flow collection entries (183:19)\n\n 180 | - {name: 🇱🇻LV-146.19.84.236-178, server: 146.19 ...\n 181 | - {name: 🇷🇺RU-95.163.242.189-179, server: 95.16 ...\n 182 | - {name: 🇳🇱NL-152.53.200.164-180, server: 152.5 ...\n 183 | - {name: \"🇺🇸US-\"2a14:7584:d0a2::a\"-181\", server ...\n-------------------------^\n 184 | - {name: 🇸🇪SE-185.104.151.181-182, server: 185. ...\n 185 | - {name: 🇷🇺RU-85.239.39.144-183, server: 85.239 ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
