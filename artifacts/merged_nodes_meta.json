@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-12T11:04:57.976Z",
+  "generated_at": "2026-05-14T03:20:34.617Z",
   "subscription_url_count": 382,
-  "node_count": 448904,
+  "node_count": 472333,
   "part_count": 2,
   "artifact_mode": "split",
   "error_count": 33,
@@ -36,7 +36,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (183:19)\n\n 180 | - {name: 🇱🇻LV-146.19.84.236-178, server: 146.19 ...\n 181 | - {name: 🇷🇺RU-95.163.242.189-179, server: 95.16 ...\n 182 | - {name: 🇳🇱NL-152.53.200.164-180, server: 152.5 ...\n 183 | - {name: \"🇺🇸US-\"2a14:7584:d0a2::a\"-181\", server ...\n-------------------------^\n 184 | - {name: 🇸🇪SE-185.104.151.181-182, server: 185. ...\n 185 | - {name: 🇷🇺RU-85.239.39.144-183, server: 85.239 ..."
+      "error": "YAMLException: missed comma between flow collection entries (300:3)\n\n 297 | - {name: 🇩🇪DE-82.198.246.214-29 ...\n 298 | - {name: 🇩🇪DE-82.198.246.250-29 ...\n 299 | - {name: 🇩🇪DE-82.198.246.97-297 ...\n 300 |   tls: false, ws-headers: {Host:  ...\n---------^\n 301 | - {name: 🇩🇪DE-82.198.246.97-298 ...\n 302 | - {name: 🇩🇪DE-82.198.246.37-299 ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
