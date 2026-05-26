@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-05-24T11:04:35.385Z",
+  "generated_at": "2026-05-26T11:06:08.517Z",
   "subscription_url_count": 385,
-  "node_count": 613045,
+  "node_count": 621703,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 29,
+  "error_count": 32,
   "errors": [
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
       "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
+    },
+    {
+      "url": "https://openproxylist.com/v2ray/rawlist/subscribe",
+      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/rawlist/subscribe"
     },
     {
       "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
@@ -29,10 +33,6 @@
     {
       "url": "https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (73:3)\n\n 70 | - {name: 🇩🇪DE-82.198.246.97-068 ...\n 71 | - {name: 🇩🇪DE-82.198.246.97-069 ...\n 72 | - {name: 🇩🇪DE-82.198.246.97-070 ...\n 73 |   tls: false, ws-headers: {Host:  ...\n--------^\n 74 | - {name: 🇩🇪DE-82.198.246.250-07 ...\n 75 | - {name: 🇩🇪DE-82.198.246.250-07 ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
@@ -83,12 +83,24 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt"
     },
     {
+      "url": "https://shadowmere.xyz/api/b64sub/",
+      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub/"
+    },
+    {
       "url": "https://v2rayshare.githubrowcontent.com/2025/08/20250804.txt",
       "error": "TypeError: fetch failed"
     },
     {
       "url": "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS"
+    },
+    {
+      "url": "https://shadowmere.xyz/api/b64sub",
+      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub"
+    },
+    {
+      "url": "https://openproxylist.com/v2ray/",
+      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/"
     },
     {
       "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/hy2",
