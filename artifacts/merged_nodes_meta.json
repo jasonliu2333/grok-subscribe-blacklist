@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-27T11:03:31.038Z",
+  "generated_at": "2026-05-28T11:04:54.564Z",
   "subscription_url_count": 385,
-  "node_count": 648989,
+  "node_count": 645138,
   "part_count": 3,
   "artifact_mode": "split",
   "error_count": 43,
@@ -35,12 +35,16 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
     },
     {
-      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
-      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt",
+      "error": "RangeError: Maximum call stack size exceeded"
     },
     {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_006.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_006.txt"
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
+      "error": "YAMLException: missed comma between flow collection entries (69:19)\n\n 66 | - {name: 🇩🇪DE-82.198.246.214-064, server: 82.19 ...\n 67 | - {name: 🇭🇰HK-103.181.164.145-065, server: 103. ...\n 68 | - {name: 🇭🇰HK-103.181.164.145-066, server: 103. ...\n 69 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-067\" ...\n------------------------^\n 70 | - {name: 🇩🇪DE-82.198.246.37-068, server: 82.198 ...\n 71 | - {name: 🇩🇪DE-82.198.246.250-069, server: 82.19 ..."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_007.txt",
@@ -169,10 +173,6 @@
     {
       "url": "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt",
-      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt",
