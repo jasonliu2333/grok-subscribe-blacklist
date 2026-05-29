@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-05-28T11:04:54.564Z",
+  "generated_at": "2026-05-29T11:05:33.706Z",
   "subscription_url_count": 385,
-  "node_count": 645138,
+  "node_count": 677796,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 43,
+  "error_count": 41,
   "errors": [
+    {
+      "url": "https://clash.crossxx.com/sub/vmess/1777809",
+      "error": "Error: fetch failed 404 for https://clash.crossxx.com/sub/vmess/1777809"
+    },
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
       "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
@@ -35,24 +39,12 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
     },
     {
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt",
-      "error": "RangeError: Maximum call stack size exceeded"
-    },
-    {
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (69:19)\n\n 66 | - {name: 🇩🇪DE-82.198.246.214-064, server: 82.19 ...\n 67 | - {name: 🇭🇰HK-103.181.164.145-065, server: 103. ...\n 68 | - {name: 🇭🇰HK-103.181.164.145-066, server: 103. ...\n 69 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-067\" ...\n------------------------^\n 70 | - {name: 🇩🇪DE-82.198.246.37-068, server: 82.198 ...\n 71 | - {name: 🇩🇪DE-82.198.246.250-069, server: 82.19 ..."
+      "error": "YAMLException: missed comma between flow collection entries (98:19)\n\n 95 | - {name: 🇺🇸US-147.90.234.133-093, server: tinke ...\n 96 | - {name: 🇲🇾MY-85.211.245.238-094, server: v4.hd ...\n 97 | - {name: 🇭🇰HK-103.181.164.145-095, server: 103. ...\n 98 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-096\" ...\n------------------------^\n 99 | - {name: 🇩🇪DE-82.198.246.250-097, server: 82.19 ...\n 100 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-098\" ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_007.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_007.txt"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_008.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_008.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_009.txt",
