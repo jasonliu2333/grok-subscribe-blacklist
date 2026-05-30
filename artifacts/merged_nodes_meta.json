@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T11:05:33.706Z",
+  "generated_at": "2026-05-30T11:02:39.900Z",
   "subscription_url_count": 385,
-  "node_count": 677796,
+  "node_count": 649213,
   "part_count": 3,
   "artifact_mode": "split",
   "error_count": 41,
@@ -37,10 +37,6 @@
     {
       "url": "https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (98:19)\n\n 95 | - {name: 🇺🇸US-147.90.234.133-093, server: tinke ...\n 96 | - {name: 🇲🇾MY-85.211.245.238-094, server: v4.hd ...\n 97 | - {name: 🇭🇰HK-103.181.164.145-095, server: 103. ...\n 98 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-096\" ...\n------------------------^\n 99 | - {name: 🇩🇪DE-82.198.246.250-097, server: 82.19 ...\n 100 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-098\" ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
@@ -165,6 +161,10 @@
     {
       "url": "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt",
