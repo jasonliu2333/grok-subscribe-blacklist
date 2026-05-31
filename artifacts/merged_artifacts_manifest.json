@@ -1,34 +1,26 @@
 {
-  "generated_at": "2026-05-30T11:02:38.538Z",
+  "generated_at": "2026-05-31T11:05:17.508Z",
   "max_artifact_bytes": 94371840,
   "max_raw_chunk_bytes": 67947724,
   "subscription_url_count": 385,
-  "node_count": 649213,
-  "part_count": 3,
+  "node_count": 552648,
+  "part_count": 2,
   "parts": [
     {
       "index": 1,
-      "node_count": 318487,
+      "node_count": 279930,
       "raw_file": "merged_nodes.part001.txt",
-      "raw_bytes": 67947712,
+      "raw_bytes": 67947444,
       "base64_file": "merged_base64.part001.txt",
-      "base64_bytes": 90596953
+      "base64_bytes": 90596593
     },
     {
       "index": 2,
-      "node_count": 266574,
+      "node_count": 272718,
       "raw_file": "merged_nodes.part002.txt",
-      "raw_bytes": 67947713,
+      "raw_bytes": 63142297,
       "base64_file": "merged_base64.part002.txt",
-      "base64_bytes": 90596953
-    },
-    {
-      "index": 3,
-      "node_count": 64152,
-      "raw_file": "merged_nodes.part003.txt",
-      "raw_bytes": 14226979,
-      "base64_file": "merged_base64.part003.txt",
-      "base64_bytes": 18969309
+      "base64_bytes": 84189733
     }
   ]
 }

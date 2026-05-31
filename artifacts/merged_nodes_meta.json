@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-30T11:02:39.900Z",
+  "generated_at": "2026-05-31T11:05:18.646Z",
   "subscription_url_count": 385,
-  "node_count": 649213,
-  "part_count": 3,
+  "node_count": 552648,
+  "part_count": 2,
   "artifact_mode": "split",
-  "error_count": 41,
+  "error_count": 43,
   "errors": [
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
@@ -39,12 +39,16 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/crossxx-labs/free-proxy/main/clash.yaml"
     },
     {
-      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
-      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt",
+      "error": "RangeError: Maximum call stack size exceeded"
     },
     {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_009.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_009.txt"
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
+      "error": "YAMLException: missed comma between flow collection entries (93:19)\n\n 90 | - {name: 🇭🇰HK-103.181.164.145-088, server: 103. ...\n 91 | - {name: 🇷🇺RU-45.140.168.54-089, server: 45.140 ...\n 92 | - {name: 🇿🇦ZA-4.168.201.246-090, server: 4.168. ...\n 93 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-091\" ...\n------------------------^\n 94 | - {name: 🏁RELAY-172.64.152.23-092, server: 172.6 ...\n 95 | - {name: 🇦🇺AU-125.7.24.251-093, server: 125.7.2 ..."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_010.txt",
@@ -129,6 +133,10 @@
     {
       "url": "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS"
+    },
+    {
+      "url": "https://v2.alicivil.workers.dev",
+      "error": "Error: fetch failed 500 for https://v2.alicivil.workers.dev"
     },
     {
       "url": "https://shadowmere.xyz/api/b64sub",
