@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-01T11:04:12.307Z",
+  "generated_at": "2026-06-02T11:07:42.885Z",
   "subscription_url_count": 385,
-  "node_count": 562991,
-  "part_count": 2,
+  "node_count": 575450,
+  "part_count": 3,
   "artifact_mode": "split",
   "error_count": 39,
   "errors": [
@@ -37,10 +37,6 @@
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt",
       "error": "RangeError: Maximum call stack size exceeded"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (92:19)\n\n 89 | - {name: 🇭🇰HK-203.218.94.57-087, server: v10.hd ...\n 90 | - {name: 🇺🇸US-147.90.234.133-088, server: tinke ...\n 91 | - {name: 🇷🇺RU-176.32.39.99-089, server: 176.32. ...\n 92 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-090\" ...\n------------------------^\n 93 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-091\" ...\n 94 | - {name: 🇹🇼TW-211.76.176.98-092, server: jpbgp. ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
@@ -157,6 +153,10 @@
     {
       "url": "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt",
