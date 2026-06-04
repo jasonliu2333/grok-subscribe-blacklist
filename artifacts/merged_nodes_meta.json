@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-03T11:05:54.689Z",
+  "generated_at": "2026-06-04T11:06:05.920Z",
   "subscription_url_count": 385,
-  "node_count": 576952,
+  "node_count": 596823,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 40,
+  "error_count": 39,
   "errors": [
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
@@ -53,10 +53,6 @@
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_011.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_011.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_012.txt",
