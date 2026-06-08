@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T11:04:08.814Z",
+  "generated_at": "2026-06-08T11:04:35.289Z",
   "subscription_url_count": 385,
-  "node_count": 624658,
+  "node_count": 634528,
   "part_count": 3,
   "artifact_mode": "split",
   "error_count": 47,
@@ -47,6 +47,10 @@
       "error": "RangeError: Maximum call stack size exceeded"
     },
     {
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
+      "error": "YAMLException: missed comma between flow collection entries (51:19)\n\n 48 | - {name: 🇭🇰HK-16.163.146.65-046, server: 16.163 ...\n 49 | - {name: 🇭🇰HK-54.46.2.184-047, server: 54.46.2. ...\n 50 | - {name: 🇩🇪DE-82.198.246.250-048, server: 82.19 ...\n 51 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-049\" ...\n------------------------^\n 52 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-050\" ...\n 53 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-051\" ..."
+    },
+    {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt"
     },
@@ -65,10 +69,6 @@
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_011.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_011.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_012.txt",
