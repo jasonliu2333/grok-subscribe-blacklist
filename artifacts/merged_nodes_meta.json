@@ -1,26 +1,14 @@
 {
-  "generated_at": "2026-06-12T11:07:15.267Z",
+  "generated_at": "2026-06-13T11:05:56.366Z",
   "subscription_url_count": 386,
-  "node_count": 583062,
+  "node_count": 595367,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 49,
+  "error_count": 48,
   "errors": [
     {
-      "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray",
-      "error": "TypeError: fetch failed"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "error": "TypeError: fetch failed"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
-      "error": "TypeError: fetch failed"
-    },
-    {
       "url": "https://raw.githubusercontent.com/OrionPotter/free-proxy/main/output/clash-meta.yaml",
-      "error": "YAMLException: expected valid JSON character (50948:19)\n\n 50945 |     server: \"85.234.114.53\"\n 50946 |     port: 22231\n 50947 |     type: \"ss\"\n 50948 |     cipher: \"i\u001asGk\"\n---------------------------^\n 50949 |     password: \"syq5q4<\"\n 50950 |     udp: true"
+      "error": "YAMLException: expected valid JSON character (50731:19)\n\n 50728 |     server: \"85.234.114.53\"\n 50729 |     port: 22231\n 50730 |     type: \"ss\"\n 50731 |     cipher: \"i\u001asGk\"\n---------------------------^\n 50732 |     password: \"syq5q4<\"\n 50733 |     udp: true"
     },
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
@@ -60,7 +48,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (48:19)\n\n 45 | - {name: 🇭🇰HK-16.162.163.189-043, server: 16.16 ...\n 46 | - {name: 🇭🇰HK-18.166.30.83-044, server: 18.166. ...\n 47 | - {name: 🇩🇪DE-82.198.246.250-045, server: 82.19 ...\n 48 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-046\" ...\n------------------------^\n 49 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-047\" ...\n 50 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-048\" ..."
+      "error": "YAMLException: missed comma between flow collection entries (50:19)\n\n 47 | - {name: 🇭🇰HK-43.198.12.196-045, server: 43.198 ...\n 48 | - {name: 🇩🇪DE-82.198.246.250-046, server: 82.19 ...\n 49 | - {name: 🇺🇸US-71.19.148.74-047, server: hackney ...\n 50 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-048\" ...\n------------------------^\n 51 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-049\" ...\n 52 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-050\" ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
@@ -81,10 +69,6 @@
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_011.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_011.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_012.txt",
@@ -171,6 +155,14 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt"
     },
     {
+      "url": "https://sub.amiralter.com/config-lite",
+      "error": "Error: fetch failed 404 for https://sub.amiralter.com/config-lite"
+    },
+    {
+      "url": "https://sub.amiralter.com/config",
+      "error": "Error: fetch failed 404 for https://sub.amiralter.com/config"
+    },
+    {
       "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/hy2",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/hy2"
     },
@@ -181,6 +173,10 @@
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hysteria",
