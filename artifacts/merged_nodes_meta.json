@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-14T11:06:21.393Z",
-  "subscription_url_count": 386,
-  "node_count": 589699,
+  "generated_at": "2026-06-16T11:05:38.408Z",
+  "subscription_url_count": 387,
+  "node_count": 629797,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 49,
+  "error_count": 48,
   "errors": [
     {
       "url": "https://raw.githubusercontent.com/OrionPotter/free-proxy/main/output/clash-meta.yaml",
-      "error": "YAMLException: expected valid JSON character (50194:17)\n\n 50191 |     server: \"dx.mmhh.eu.cc\"\n 50192 |     port: 443\n 50193 |     type: \"ss\"\n 50194 |     cipher: \"{\u001cצ\"\n-------------------------^\n 50195 |     password: \"oo٧iݵ緵[\"\n 50196 |     udp: true"
+      "error": "YAMLException: expected valid JSON character (50948:24)\n\n 50945 |     port: 8080\n 50946 |     type: \"ss\"\n 50947 |     cipher: \"chacha20-ietf-poly1305\"\n 50948 |     password: \"4aə-Y\u0004D\u0016\"\n--------------------------------^\n 50949 |     udp: true\n 50950 |   -"
     },
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
@@ -17,6 +17,10 @@
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
       "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
+    },
+    {
+      "url": "https://openproxylist.com/v2ray/rawlist/subscribe",
+      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/rawlist/subscribe"
     },
     {
       "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
@@ -48,7 +52,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (77:19)\n\n 74 | - {name: 🇭🇰HK-103.177.136.42-072, server: 103.1 ...\n 75 | - {name: 🇭🇰HK-103.177.136.42-073, server: 103.1 ...\n 76 | - {name: 🇭🇰HK-103.177.136.42-074, server: 103.1 ...\n 77 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-075\" ...\n------------------------^\n 78 | - {name: 🇭🇰HK-103.177.136.42-076, server: 103.1 ...\n 79 | - {name: 🇭🇰HK-103.177.136.45-077, server: 103.1 ..."
+      "error": "YAMLException: missed comma between flow collection entries (108:19)\n\n 105 | - {name: 🇭🇰HK-103.181.164.145-103, server: 103. ...\n 106 | - {name: 🇭🇰HK-218.250.99.50-104, server: jpbgp. ...\n 107 | - {name: 🇭🇰HK-219.77.82.228-105, server: jpbgp. ...\n 108 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-106\" ...\n-------------------------^\n 109 | - {name: 🇺🇸US-71.19.148.74-107, server: hackney ...\n 110 | - {name: 🇩🇪DE-82.198.246.37-108, server: 82.198 ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
@@ -71,26 +75,6 @@
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
     },
     {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_012.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_012.txt"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_013.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_013.txt"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_014.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_014.txt"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_015.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_015.txt"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt"
-    },
-    {
       "url": "https://a.nodeshare.xyz/uploads/2025/8/20250804.txt",
       "error": "TypeError: fetch failed"
     },
@@ -109,10 +93,6 @@
     {
       "url": "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/MrTelepathic/v2ray-sub/refs/heads/main/configs.txt",
-      "error": "TypeError: fetch failed"
     },
     {
       "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt",
@@ -143,6 +123,10 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt"
     },
     {
+      "url": "https://shadowmere.xyz/api/b64sub/",
+      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub/"
+    },
+    {
       "url": "https://v2rayshare.githubrowcontent.com/2025/08/20250804.txt",
       "error": "TypeError: fetch failed"
     },
@@ -157,6 +141,14 @@
     {
       "url": "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt"
+    },
+    {
+      "url": "https://shadowmere.xyz/api/b64sub",
+      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub"
+    },
+    {
+      "url": "https://openproxylist.com/v2ray/",
+      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/"
     },
     {
       "url": "https://sub.amiralter.com/config-lite",
@@ -200,6 +192,10 @@
     },
     {
       "url": "https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/2.txt",
+      "error": "RangeError: Maximum call stack size exceeded"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt",
       "error": "RangeError: Maximum call stack size exceeded"
     }
   ]
