@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-06-16T11:05:38.408Z",
+  "generated_at": "2026-06-17T11:05:31.923Z",
   "subscription_url_count": 387,
-  "node_count": 629797,
+  "node_count": 654892,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 48,
+  "error_count": 47,
   "errors": [
-    {
-      "url": "https://raw.githubusercontent.com/OrionPotter/free-proxy/main/output/clash-meta.yaml",
-      "error": "YAMLException: expected valid JSON character (50948:24)\n\n 50945 |     port: 8080\n 50946 |     type: \"ss\"\n 50947 |     cipher: \"chacha20-ietf-poly1305\"\n 50948 |     password: \"4aə-Y\u0004D\u0016\"\n--------------------------------^\n 50949 |     udp: true\n 50950 |   -"
-    },
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
       "error": "Error: fetch failed 404 for https://clash.crossxx.com/sub/vmess/1777809"
@@ -52,7 +48,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (108:19)\n\n 105 | - {name: 🇭🇰HK-103.181.164.145-103, server: 103. ...\n 106 | - {name: 🇭🇰HK-218.250.99.50-104, server: jpbgp. ...\n 107 | - {name: 🇭🇰HK-219.77.82.228-105, server: jpbgp. ...\n 108 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-106\" ...\n-------------------------^\n 109 | - {name: 🇺🇸US-71.19.148.74-107, server: hackney ...\n 110 | - {name: 🇩🇪DE-82.198.246.37-108, server: 82.198 ..."
+      "error": "YAMLException: missed comma between flow collection entries (98:19)\n\n 95 | - {name: 🇭🇰HK-103.181.164.145-093, server: 103. ...\n 96 | - {name: 🇭🇰HK-42.3.161.243-094, server: jpbgp.n ...\n 97 | - {name: 🇭🇰HK-42.3.161.243-095, server: jpbgp.n ...\n 98 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-096\" ...\n------------------------^\n 99 | - {name: 🇺🇸US-71.19.148.74-097, server: hackney ...\n 100 | - {name: 🇩🇪DE-82.198.246.37-098, server: 82.198 ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
