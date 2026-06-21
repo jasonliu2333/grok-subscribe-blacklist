@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-06-18T11:04:12.690Z",
-  "subscription_url_count": 387,
-  "node_count": 658557,
+  "generated_at": "2026-06-21T11:04:36.207Z",
+  "subscription_url_count": 388,
+  "node_count": 672612,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 48,
+  "error_count": 47,
   "errors": [
-    {
-      "url": "https://raw.githubusercontent.com/OrionPotter/free-proxy/main/output/clash-meta.yaml",
-      "error": "YAMLException: expected valid JSON character (49650:49)\n\n 49647 |  ... \n 49648 |  ... \n 49649 |  ... 20-ietf-poly1305\"\n 49650 |  ... C8zZ0eXokIOuW5rL8oNyaa\u00050Hљ\u001d9-\n-------------------------------------------^\n 49651 |  ... \n 49652 |  ... "
-    },
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
       "error": "Error: fetch failed 404 for https://clash.crossxx.com/sub/vmess/1777809"
@@ -17,10 +13,6 @@
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
       "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
-    },
-    {
-      "url": "https://openproxylist.com/v2ray/rawlist/subscribe",
-      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/rawlist/subscribe"
     },
     {
       "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
@@ -51,6 +43,10 @@
       "error": "RangeError: Maximum call stack size exceeded"
     },
     {
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
+      "error": "YAMLException: missed comma between flow collection entries (88:19)\n\n 85 | - {name: 🇭🇰HK-103.181.164.145-083, server: 103. ...\n 86 | - {name: 🇭🇰HK-219.77.38.54-084, server: jpbgp.n ...\n 87 | - {name: 🇭🇰HK-219.77.38.54-085, server: jpbgp.n ...\n 88 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-086\" ...\n------------------------^\n 89 | - {name: 🇺🇸US-71.19.148.74-087, server: hackney ...\n 90 | - {name: 🇩🇪DE-82.198.246.37-088, server: 82.198 ..."
+    },
+    {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt"
     },
@@ -69,6 +65,10 @@
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_015.txt",
+      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_015.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt",
@@ -123,10 +123,6 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt"
     },
     {
-      "url": "https://shadowmere.xyz/api/b64sub/",
-      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub/"
-    },
-    {
       "url": "https://v2rayshare.githubrowcontent.com/2025/08/20250804.txt",
       "error": "TypeError: fetch failed"
     },
@@ -141,14 +137,6 @@
     {
       "url": "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt"
-    },
-    {
-      "url": "https://shadowmere.xyz/api/b64sub",
-      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub"
-    },
-    {
-      "url": "https://openproxylist.com/v2ray/",
-      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/"
     },
     {
       "url": "https://sub.amiralter.com/config-lite",
@@ -173,6 +161,14 @@
     {
       "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_1",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_1"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_2",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_2"
     },
     {
       "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hysteria",
