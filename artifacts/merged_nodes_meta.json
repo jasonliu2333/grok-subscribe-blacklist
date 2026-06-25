@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-24T11:04:46.264Z",
+  "generated_at": "2026-06-25T11:04:37.931Z",
   "subscription_url_count": 388,
-  "node_count": 710418,
+  "node_count": 701862,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 46,
+  "error_count": 52,
   "errors": [
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
@@ -44,7 +44,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (102:19)\n\n  99 | - {name: 🇭🇰HK-103.181.164.145-097, server: 103. ...\n 100 | - {name: 🇭🇰HK-219.77.53.237-098, server: jpbgp. ...\n 101 | - {name: 🇭🇰HK-1.36.1.154-099, server: jpbgp.net ...\n 102 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-100\" ...\n-------------------------^\n 103 | - {name: 🇺🇸US-71.19.148.74-101, server: hackney ...\n 104 | - {name: 🇩🇪DE-82.198.246.37-102, server: 82.198 ..."
+      "error": "YAMLException: missed comma between flow collection entries (103:19)\n\n 100 | - {name: 🇭🇰HK-103.181.164.145-098, server: 103. ...\n 101 | - {name: 🇭🇰HK-1.36.0.19-099, server: jpbgp.netv ...\n 102 | - {name: 🇭🇰HK-218.250.99.31-100, server: jpbgp. ...\n 103 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-101\" ...\n-------------------------^\n 104 | - {name: 🇺🇸US-71.19.148.74-102, server: hackney ...\n 105 | - {name: 🇩🇪DE-82.198.246.37-103, server: 82.198 ..."
     },
     {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
@@ -61,6 +61,26 @@
     {
       "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt",
       "error": "RangeError: Maximum call stack size exceeded"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/clash.yaml",
+      "error": "YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key (127:11)\n\n 124 |     type: vless\n 125 | <<<<<<< Updated upstream\n 126 | =======\n 127 |     server: \"141.98.4.99\"\n-----------------^\n 128 |     port: 443\n 129 |     uuid: \"597923cd-1877-495f-9413-d0dfbd ..."
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/vmess_clash.yaml",
+      "error": "YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key (124:9)\n\n 121 | \n 122 | proxies:\n 123 | <<<<<<< Updated upstream\n 124 |   - name: \"@DeltaKronecker_Clash_12771\"\n---------------^\n 125 |     type: vmess\n 126 |     server: \"67.220.72.237\""
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/vless_clash.yaml",
+      "error": "YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key (127:11)\n\n 124 |     type: vless\n 125 | <<<<<<< Updated upstream\n 126 | =======\n 127 |     server: \"141.98.4.99\"\n-----------------^\n 128 |     port: 443\n 129 |     uuid: \"597923cd-1877-495f-9413-d0dfbd ..."
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/trojan_clash.yaml",
+      "error": "YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key (124:9)\n\n 121 | \n 122 | proxies:\n 123 | <<<<<<< Updated upstream\n 124 |   - name: \"@DeltaKronecker_Clash_4649\"\n---------------^\n 125 |     type: trojan\n 126 |     server: \"154.197.75.178\""
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/ss_clash.yaml",
+      "error": "YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key (124:9)\n\n 121 | \n 122 | proxies:\n 123 | <<<<<<< Updated upstream\n 124 |   - name: \"@DeltaKronecker_Clash_11401\"\n---------------^\n 125 |     type: ss\n 126 | ======="
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
@@ -157,6 +177,10 @@
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_1",
