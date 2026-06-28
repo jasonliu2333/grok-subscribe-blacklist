@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T11:04:15.631Z",
+  "generated_at": "2026-06-28T11:04:18.152Z",
   "subscription_url_count": 389,
-  "node_count": 719285,
+  "node_count": 736553,
   "part_count": 3,
   "artifact_mode": "split",
   "error_count": 50,
@@ -47,12 +47,12 @@
       "error": "RangeError: Maximum call stack size exceeded"
     },
     {
-      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (110:19)\n\n 107 | - {name: 🇭🇰HK-103.181.164.145-105, server: 103. ...\n 108 | - {name: 🇭🇰HK-1.36.1.62-106, server: jpbgp.netv ...\n 109 | - {name: 🇭🇰HK-119.236.229.54-107, server: jpbgp ...\n 110 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-108\" ...\n-------------------------^\n 111 | - {name: 🇺🇸US-71.19.148.74-109, server: hackney ...\n 112 | - {name: 🇩🇪DE-82.198.246.37-110, server: 82.198 ..."
-    },
-    {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt",
+      "error": "Error: fetch failed 400 for https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
@@ -69,6 +69,10 @@
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_014.txt",
+      "error": "Error: fetch failed 400 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_014.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt",
@@ -136,7 +140,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/mixed/subscription-2.txt",
-      "error": "Error: fetch failed 400 for https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/mixed/subscription-2.txt"
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/mixed/subscription-2.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/shadowsocks.txt",
@@ -169,10 +173,6 @@
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt",
-      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_1",
