@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-06-29T11:02:59.156Z",
+  "generated_at": "2026-07-01T11:04:26.790Z",
   "subscription_url_count": 389,
-  "node_count": 744764,
+  "node_count": 736173,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 56,
+  "error_count": 59,
   "errors": [
-    {
-      "url": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray",
-      "error": "Error: fetch failed 400 for https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray"
-    },
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
       "error": "Error: fetch failed 404 for https://clash.crossxx.com/sub/vmess/1777809"
@@ -51,10 +47,6 @@
       "error": "RangeError: Maximum call stack size exceeded"
     },
     {
-      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
-      "error": "YAMLException: missed comma between flow collection entries (104:19)\n\n 101 | - {name: 🇭🇰HK-103.181.164.145-099, server: 103. ...\n 102 | - {name: 🇭🇰HK-1.36.0.31-100, server: jpbgp.netv ...\n 103 | - {name: 🇭🇰HK-1.36.52.99-101, server: jpbgp.net ...\n 104 | - {name: \"🇯🇵JP-\"2a02:6ea0:d32f::f8fe:349b\"-102\" ...\n-------------------------^\n 105 | - {name: 🇺🇸US-71.19.148.74-103, server: hackney ...\n 106 | - {name: 🇩🇪DE-82.198.246.37-104, server: 82.198 ..."
-    },
-    {
       "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt"
     },
@@ -73,14 +65,6 @@
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_006.txt",
-      "error": "Error: fetch failed 400 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_006.txt"
-    },
-    {
-      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt",
-      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt"
     },
     {
       "url": "https://a.nodeshare.xyz/uploads/2025/8/20250804.txt",
@@ -131,10 +115,6 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt"
     },
     {
-      "url": "https://raw.githubusercontent.com/moneyfly1/collectSub/refs/heads/main/config_all_merged_nodes.txt",
-      "error": "Error: fetch failed 400 for https://raw.githubusercontent.com/moneyfly1/collectSub/refs/heads/main/config_all_merged_nodes.txt"
-    },
-    {
       "url": "https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt"
     },
@@ -161,6 +141,10 @@
     {
       "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/xhttp",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/xhttp"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/nekobox/mix.json",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/nekobox/mix.json"
     },
     {
       "url": "https://shadowmere.xyz/api/b64sub",
@@ -199,6 +183,34 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt"
     },
     {
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub9.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub9.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub10.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub10.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub11.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub11.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub12.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub12.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub13.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub13.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub14.txt",
+      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub14.txt"
+    },
+    {
       "url": "https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_1",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/telegram/popular_channels_1"
     },
@@ -228,7 +240,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt",
-      "error": "Error: fetch failed 400 for https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt"
+      "error": "RangeError: Maximum call stack size exceeded"
     }
   ]
 }
