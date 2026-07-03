@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-01T11:04:26.790Z",
-  "subscription_url_count": 389,
-  "node_count": 736173,
+  "generated_at": "2026-07-03T14:57:40.589Z",
+  "subscription_url_count": 392,
+  "node_count": 816232,
   "part_count": 3,
   "artifact_mode": "split",
-  "error_count": 59,
+  "error_count": 76,
   "errors": [
     {
       "url": "https://clash.crossxx.com/sub/vmess/1777809",
@@ -13,10 +13,6 @@
     {
       "url": "https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2",
       "error": "Error: fetch failed 403 for https://n7mn72.tosslk.xyz/0ef87c34f6305c9511de590a5af973b2"
-    },
-    {
-      "url": "https://openproxylist.com/v2ray/rawlist/subscribe",
-      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/rawlist/subscribe"
     },
     {
       "url": "https://pu3yFQ.tosslk.xyz/89d1dc5433be7fc577d93b1676407153",
@@ -63,8 +59,96 @@
       "error": "RangeError: Maximum call stack size exceeded"
     },
     {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/7.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/8.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/9.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/10.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/11.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/12.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/13.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/14.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/15.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/16.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/17.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/18.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/19.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/20.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/vmess.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/vless.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/trojan.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/ss.txt",
+      "error": "TypeError: fetch failed"
+    },
+    {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml",
       "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/hy2_clash.yaml"
+    },
+    {
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt",
+      "error": "Error: fetch failed 404 for https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_016.txt"
     },
     {
       "url": "https://a.nodeshare.xyz/uploads/2025/8/20250804.txt",
@@ -119,10 +203,6 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/qjlxg/collectSub/refs/heads/main/config_all_merged_nodes.txt"
     },
     {
-      "url": "https://shadowmere.xyz/api/b64sub/",
-      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub/"
-    },
-    {
       "url": "https://v2rayshare.githubrowcontent.com/2025/08/20250804.txt",
       "error": "TypeError: fetch failed"
     },
@@ -147,14 +227,6 @@
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/nekobox/mix.json"
     },
     {
-      "url": "https://shadowmere.xyz/api/b64sub",
-      "error": "Error: fetch failed 403 for https://shadowmere.xyz/api/b64sub"
-    },
-    {
-      "url": "https://openproxylist.com/v2ray/",
-      "error": "Error: fetch failed 403 for https://openproxylist.com/v2ray/"
-    },
-    {
       "url": "https://sub.amiralter.com/config-lite",
       "error": "Error: fetch failed 404 for https://sub.amiralter.com/config-lite"
     },
@@ -177,10 +249,6 @@
     {
       "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt",
       "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt",
-      "error": "Error: fetch failed 404 for https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt"
     },
     {
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub8.txt",
